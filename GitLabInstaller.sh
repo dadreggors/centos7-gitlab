@@ -25,7 +25,7 @@ githome="/home/git"
 ##########################
 # Dependencies
 ##########################
-sudo rpm -i http://dl.fedoraproject.org/pub/epel/beta/7/x86_64/epel-release-7-0.2.noarch.rpm
+sudo rpm -i http://dl.fedoraproject.org/pub/epel/7/x86_64/e/epel-release-7-5.noarch.rpm
 sudo yum -y install patch gcc gcc-c++ mariadb-server \
   mariadb-libs mariadb mariadb-devel libicu-devel \
   rubygem-rake mlocate git ruby rubygem-bundler \
